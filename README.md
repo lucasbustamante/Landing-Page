@@ -5,7 +5,7 @@ Olá! Recentemente, tive a oportunidade de unir o útil ao agradável. Recebi um
 ### Screenshot
 
 <p float="left">
-  <img src="/screenshot/print_site.png" width="250" />
+  <img src="/screenshot/print_site.png" width="900" />
   
 
 ### [Link Landing Page](http://aratto.netlify.com/)
